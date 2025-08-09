@@ -42,7 +42,7 @@ Test your memory skills, follow the sequence, and try to beat your **high score*
 ---
 
 ## 📸 Screenshots
-<img width="1632" height="872" alt="image" src="https://github.com/user-attachments/assets/6946ead0-4b40-43a7-8346-a87aae8f7bc4" />
+<img width="1061" height="882" alt="image" src="https://github.com/user-attachments/assets/cc3df6a5-9619-4cee-91e4-251d99854cc7" />
 
 
 ---
