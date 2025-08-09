@@ -7,8 +7,9 @@ Here’s an **attractive and well-structured README** for your **Simon Says Game
 A fun, colorful memory game inspired by the classic **Simon Says**.
 Test your memory skills, follow the sequence, and try to beat your **high score**!
 
-![Simon Says Game Preview](https://via.placeholder.com/800x400?text=Simon+Says+Game+Preview)
-*(Replace the link with your actual screenshot)*
+![Simon Says Game Preview]
+<img width="1632" height="872" alt="image" src="https://github.com/user-attachments/assets/c4890434-65d7-4dea-baca-b932b7561ec6" />
+
 
 ---
 
